@@ -1,0 +1,45 @@
+body{
+	font-family: Rammetto One, cursive;
+
+}
+
+.bg-1{
+
+	background-color: cyan;
+}
+.bg-2{
+	background-color: grey;
+	color: cyan;
+}
+.bg-3{
+	background-color:cyan;
+	color: black;
+}
+.container-fluid{
+	padding-top: 80px;
+	padding-bottom: 80px
+}
+.bg-4{
+	background-color: grey;
+	color: cyan;
+}
+.bg-5{
+	background-color: black;
+	color: yellow;
+}
+hr{
+	border: dashed tomato 2px;
+}
+h3{
+	color: red;
+}
+.container-fluid{
+	border: 10px white solid;
+}
+.footer{
+	text-align: center;
+}
+.bg-6{
+	background-color: black;
+	color: red;
+}
